@@ -26,10 +26,10 @@ This repository contains the code and resources for a PyTorch-based Image Maskin
 
 ### Installation
 
-1. Clone the repository:
+1. Clone the repository for dataset:
 
     ```bash
-    git clone https://github.com/Anshuman125/ImageSegmentation.git
+    git clone https://github.com/parth1620/Human-Segmentation-Dataset-master.git
     ```
 
 2. Install dependencies:
