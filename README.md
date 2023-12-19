@@ -1,5 +1,10 @@
 # PyTorch Image Masking Project
 
+## Google Collab Link
+```bash
+https://colab.research.google.com/drive/1JoOCINMDotCcrIq3xwPY4HgBU9S7JtmG?usp=sharing
+```
+
 ## Overview
 
 This repository contains the code and resources for a PyTorch-based Image Masking Project. The project focuses on image segmentation and the creation of accurate masks for objects in images. It leverages PyTorch, a powerful deep learning framework, to train and deploy a neural network for image segmentation tasks.
